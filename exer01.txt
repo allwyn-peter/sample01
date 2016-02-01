@@ -2,3 +2,5 @@ hi how r u?
 olive tech
 
 good to see the end 
+
+git hub is a repository to store code
